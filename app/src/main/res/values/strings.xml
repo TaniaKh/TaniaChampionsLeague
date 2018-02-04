@@ -1,0 +1,7 @@
+<resources>
+    <string name="app_name">Ultimate Champions League</string>
+    <string name="Team_one">FC Barcelona score </string>
+    <string name="Team_two">Real Madrid score </string>
+    <string name="Fouls">Fouls  </string>
+    <string name="BallContacts">Ball Contacts  </string>
+</resources>
